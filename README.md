@@ -6,7 +6,13 @@ some descriptions!
 
 You're officially welcome to using git
 
+
+##New development
+
+An updated version is going to be released soon
+
 ##Newheader
 
 i'm currently learning git branches
+
 
